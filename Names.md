@@ -16,6 +16,10 @@
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
 
+### Баев Никита
+
+[личный сайт](http://drugoi.ninja), [@bayevn](https://twitter.com/bayevn), [github](https://github.com/drugoi)
+
 ## З
 
 ### Зенич Игорь
