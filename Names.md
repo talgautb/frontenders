@@ -2,7 +2,7 @@
 
 Оглавление:
 
-[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) Л [М](#m) [Н](#n) О [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) Л [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -19,6 +19,10 @@
 ### Баев Никита
 
 [личный сайт](http://drugoi.ninja), [@bayevn](https://twitter.com/bayevn), [github](https://github.com/drugoi)
+
+### Баранов Михаил
+
+[личный сайт](http://designnotfound.ru/), [@_h4_](https://twitter.com/_h4_), [github](https://github.com/h4)
 
 ## <a name='d'></a>Д
 
