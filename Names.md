@@ -46,6 +46,10 @@
 
 [личный сайт](http://kizu.ru/),[блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
 
+### Кузнецов Владимир
+
+[блог](http://noteskeeper.ru/), [@mista_k](https://twitter.com/mista_k), [github](https://github.com/mistakster)
+
 ## <a name='l'></a>Л
 
 ### Лютиков Роман
