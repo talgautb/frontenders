@@ -2,15 +2,15 @@
 
 Оглавление:
 
-[А](#А) [Б](#Б) В Г Д Е Ё Ж З И Й [К](#К) Л [М](#М) Н О [П](#П) Р [С](#С) Т У Ф [Х](#Х) Ц [Ч](#Ч) [Ш](#Ш) Щ Э Ю Я
+[А](#a) [Б](#b) В Г Д Е Ё Ж [З](#z) И Й [К](#k) Л [М](#m) Н О [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
-## А
+## <a name='a'></a>А
 
 ### Артюх Юрий
 
 [личный сайт](http://akella.org.ua/), [блог](http://cssing.org.ua/), [@akella](https://twitter.com/akella)
 
-## Б
+## <a name='b'></a>Б
 
 ### Бухвалова Юля
 
@@ -20,31 +20,31 @@
 
 [личный сайт](http://drugoi.ninja), [@bayevn](https://twitter.com/bayevn), [github](https://github.com/drugoi)
 
-## З
+## <a name='z'></a>З
 
 ### Зенич Игорь
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz)
 
-## К
+## <a name='k'></a>К
 
 ### Комаров Роман
 
 [личный сайт](http://kizu.ru/),[блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
 
-## М
+## <a name='m'></a>М
 
 ### Макеев Вадим
 
 [pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
 
-## П
+## <a name='p'></a>П
 
 ### Поликарпов Артём
 
 [artpolikarpov.ru](http://artpolikarpov.ru), [@artpolikarpov](https://twitter.com/artpolikarpov)
 
-## С
+## <a name='s'></a>С
 
 ### Сапегин Артём
 
@@ -59,7 +59,7 @@
 [vstarkov.ru](http://vstarkov.ru/), [@matmuchrapna](https://twitter.com/matmuchrapna), [github](https://github.com/matmuchrapna)
 
 
-## Х
+## <a name='h'></a>Х
 
 ### Харисов Виталя
 
@@ -70,13 +70,13 @@
 [личный сайт](http://rhr.me/), [блог](http://tohtml.it/), [@operatino](https://twitter.com/operatino)
 
 
-## Ч
+## <a name='ch'></a>Ч
 
 ### Чикуёнок Сергей
 
 [chikuyonok.ru](http://chikuyonok.ru/), [@chikuyonok](https://twitter.com/chikuyonok)
 
-## Ш
+## <a name='sh'></a>Ш
 
 ### Шувалов Антон
 
