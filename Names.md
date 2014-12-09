@@ -2,7 +2,7 @@
 
 Оглавление:
 
-[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) Л [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -41,6 +41,12 @@
 ### Комаров Роман
 
 [личный сайт](http://kizu.ru/),[блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
+
+## <a name='l'></a>Л
+
+### Лютиков Роман
+
+[личный сайт](https://romanliutikov.com/), [блог](http://blog.romanliutikov.com/), [@roman01la](https://twitter.com/roman01la), [github](https://github.com/roman01la)
 
 ## <a name='m'></a>М
 
