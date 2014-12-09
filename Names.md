@@ -50,6 +50,12 @@
 
 [личный сайт](http://silentimp.info/), [@silentimp](https://twitter.com/silentimp), [github](https://github.com/SilentImp)
 
+## <a name='o'></a>О
+
+### Олиянчук Вячеслав
+
+[личный сайт](http://miripiruni.org/), [блог](http://mrprn.ru/), [@miripiruni](https://twitter.com/miripiruni), [github](https://github.com/miripiruni)
+
 ## <a name='p'></a>П
 
 ### Поликарпов Артём
@@ -70,7 +76,6 @@
 
 [vstarkov.ru](http://vstarkov.ru/), [@matmuchrapna](https://twitter.com/matmuchrapna), [github](https://github.com/matmuchrapna)
 
-
 ## <a name='h'></a>Х
 
 ### Харисов Виталя
@@ -80,7 +85,6 @@
 ### Харитонов Роберт
 
 [личный сайт](http://rhr.me/), [блог](http://tohtml.it/), [@operatino](https://twitter.com/operatino)
-
 
 ## <a name='ch'></a>Ч
 
