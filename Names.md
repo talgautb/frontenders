@@ -30,6 +30,10 @@
 
 [личный сайт](http://rdvornov.moikrug.ru/), [@rdvornov](https://twitter.com/rdvornov), [github](https://github.com/lahmatiy)
 
+### Дудин Дмитрий
+
+[личный сайт](http://html5.by/), [@nedudi](https://twitter.com/nedudi), [github](https://github.com/nedudi)
+
 ## <a name='z'></a>З
 
 ### Зенич Игорь
