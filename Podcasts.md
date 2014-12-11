@@ -4,7 +4,6 @@
 
 * [@frontflip_js](https://twitter.com/frontflip_js)
 * [itunes](https://itunes.apple.com/ru/podcast/frontflip/id884716456)
-* [soundcloud](https://soundcloud.com/radiojspodcast/)
 
 ## [RadioJS](http://radiojs.ru/)
 
