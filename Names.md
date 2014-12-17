@@ -12,6 +12,12 @@
 
 ## <a name='b'></a>Б
 
+### Барановский Дмитрий
+
+Senior Computer Scientist в Adobe, Javascript Artist, веб-разработчик, интересы: HTML, CSS, JavaScript, XSLT и SVG, автор [Raphaël](http://raphaeljs.com/)
+
+[личный сайт](http://dmitry.baranovskiy.com/), [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk), [github](https://github.com/DmitryBaranovskiy)
+
 ### Бухвалова Юля
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
