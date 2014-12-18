@@ -2,7 +2,7 @@
 
 Оглавление:
 
-[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т У Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -117,6 +117,14 @@ Javascript маньяк, один из разработчиков ядра Proto
 ### Старков Владимир
 
 [vstarkov.ru](http://vstarkov.ru/), [@matmuchrapna](https://twitter.com/matmuchrapna), [github](https://github.com/matmuchrapna)
+
+## <a name='u'></a>У
+
+### Усачёв Максим aka psyw
+
+CEO и главный редактор сss-live.ru
+
+[сайт](http://css-live.ru/), [@psyw](https://twitter.com/psyw)
 
 ## <a name='h'></a>Х
 
