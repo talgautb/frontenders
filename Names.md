@@ -108,6 +108,12 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 [личный сайт](http://sitnik.ru/), [@andrey_sitnik](https://twitter.com/andrey_sitnik), [github](https://github.com/ai)
 
+### Сошников Дмитрий
+
+автор цикла статей "Тонкости ECMA-262", независимый JavaScript эксперт, работает в facebook в должности Software Engineer.
+
+[мой круг](http://dmitry-soshnikov.moikrug.ru/), [блог](http://dmitrysoshnikov.com/), [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov), [github](https://github.com/DmitrySoshnikov)
+
 ### Старков Владимир
 
 [vstarkov.ru](http://vstarkov.ru/), [@matmuchrapna](https://twitter.com/matmuchrapna), [github](https://github.com/matmuchrapna)
