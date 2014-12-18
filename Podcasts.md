@@ -10,3 +10,10 @@
 * [@RadioJSPodcast](https://twitter.com/RadioJSPodcast)
 * [itunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655)
 * [soundcloud](https://soundcloud.com/radiojspodcast/)
+
+## [RWpod](http://www.rwpod.com/)
+
+подкаст про мир Ruby и Web технологии
+
+* [@rwpod](https://twitter.com/rwpod)
+* [itunes](https://itunes.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066)
