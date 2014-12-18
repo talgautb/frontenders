@@ -42,6 +42,12 @@ Senior Computer Scientist в Adobe, Javascript Artist, веб-разработч
 
 ## <a name='z'></a>З
 
+### Зайцев Юрий aka kangax
+
+Javascript маньяк, один из разработчиков ядра Prototypejs, автор [fabricjs](http://fabricjs.com/), HTMLMinifier, JSCritic
+
+[блог](http://perfectionkills.com/), [@kangax](https://twitter.com/kangax), [github](https://github.com/kangax)
+
 ### Зенич Игорь
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz)
