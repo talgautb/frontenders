@@ -54,6 +54,12 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 ## <a name='k'></a>К
 
+### Кантор Илья aka iliakan
+
+автор [javascript.ru](http://javascript.ru/) и учебника о [Js](http://learn.javascript.ru), работал в основной команде фреймворка Dojo Toolkit
+
+[мой круг](https://ikantor.moikrug.ru/), [@iliakan](https://twitter.com/iliakan), [github](https://github.com/iliakan)
+
 ### Комаров Роман
 
 [личный сайт](http://kizu.ru/),[блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
