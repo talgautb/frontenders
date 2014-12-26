@@ -74,6 +74,12 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 [личный сайт](https://romanliutikov.com/), [блог](http://blog.romanliutikov.com/), [@roman01la](https://twitter.com/roman01la), [github](https://github.com/roman01la)
 
+### Лялин Дмитрий aka Dimox
+
+веб-мастер блога "Свобода слова вебмастерского", автор плагина jQueryFormStyler
+
+[блог](http://dimox.name/), [@Dimox_ru](https://twitter.com/Dimox_ru), [github](https://github.com/Dimox)
+
 ## <a name='m'></a>М
 
 ### Макеев Вадим
