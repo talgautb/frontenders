@@ -86,6 +86,12 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 [pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
 
+### Мержевич Влад
+
+автор [htmlbook](http://htmlbook.ru), а также таких книг как "Ускорение работы сайта", "HTML и CSS на примерах", "Самоучитель по HTML", "Самоучитель по CSS"
+
+[htmlbook.ru](http://htmlbook.ru)
+
 ## <a name='n'></a>Н
 
 ### Немцев Антон
