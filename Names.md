@@ -140,6 +140,12 @@ Javascript-программист в [Badoo](http://badoo.com/ru/), пишет �
 
 [личный сайт](http://sapegin.ru/), [наноблог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
 
+### Семёнов Дмитрий aka dimsemenov
+
+UX дизайнер, веб-разработчик, автор open source проектов: [PhotoSwipe](http://photoswipe.com/), [Magnific popup](http://dimsemenov.com/plugins/magnific-popup/).
+
+[личный сайт](http://dimsemenov.com/), [@dimsemenov](https://twitter.com/dimsemenov), [github](https://github.com/dimsemenov)
+
 ### Ситник Андрей
 
 Front-end разработчик в [Злых марсиянах](https://evilmartians.com/), автор [PostCss](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс проектов. Верит, что компьютеры должны страдать
