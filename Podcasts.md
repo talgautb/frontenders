@@ -17,3 +17,12 @@
 
 * [@rwpod](https://twitter.com/rwpod)
 * [itunes](https://itunes.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066)
+
+## [uWebDesign](http://uwebdesign.ru/)
+
+про веб-дизайн и фронтенд технологии
+
+* [@rwpod](https://twitter.com/uwebdesign)
+* [itunes](https://itunes.apple.com/ru/podcast/uwebdesign-vse-o-veb-razrabotke/id923355344)
+* [youtube](http://youtube.com/uwebdesign)
+* [vk](http://vk.com/uwebdesign)
