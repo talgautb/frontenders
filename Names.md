@@ -158,11 +158,11 @@ Front-end разработчик в [Злых марсиянах](https://evilma
 
 [мой круг](http://dmitry-soshnikov.moikrug.ru/), [блог](http://dmitrysoshnikov.com/), [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov), [github](https://github.com/DmitrySoshnikov)
 
-### Старков Владимир aka matmuchrapna
+### Старков Владимир
 
-frontend разработчик в [CSSSR](http://csssr.com/), автор [getbem.com](http://getbem.com), участник проекта [Frontender Magazine](http://frontender.info/)
+Фронтенд разработчик в [Fastdev](http://fastdev.se/), автор [getbem.com](http://getbem.com) и участник [Frontender Magazine](http://frontender.info/)
 
-[vstarkov.ru](http://vstarkov.ru/), [@matmuchrapna](https://twitter.com/matmuchrapna), [github](https://github.com/matmuchrapna)
+[iamstarkov.com](iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
 
 ## <a name='u'></a>У
 
