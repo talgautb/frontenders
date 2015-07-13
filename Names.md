@@ -164,11 +164,17 @@ Front-end разработчик в [Злых марсиянах](https://evilma
 
 [iamstarkov.com](iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
 
+### Стрельцын Илья aka SelenIT2
+
+Соавтор и главный редактор сайта [CSS live](http://css-live.ru)
+
+[сайт](http://css-live.ru), [@SelenIT2](https://twitter.com/SelenIT2)
+
 ## <a name='u'></a>У
 
 ### Усачёв Максим aka psyw
 
-CEO и главный редактор [CSS live](http://сss-live.ru)
+CEO и автор сайта [CSS live](http://сss-live.ru)
 
 [сайт](http://css-live.ru/), [@psyw](https://twitter.com/psyw)
 
