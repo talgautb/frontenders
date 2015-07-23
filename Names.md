@@ -68,6 +68,12 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 [мой круг](https://ikantor.moikrug.ru/), [@iliakan](https://twitter.com/iliakan), [github](https://github.com/iliakan)
 
+### Колосков Михаил
+
+Фанатик [«Дизайна в браузере»](http://habrahabr.ru/post/238485/). Дизайню интерфейсы, используя мощь фронт-энд технологий. Основной вектор это выстраивание процессов и среды для создания масштабируемых веб интерфейсов.
+
+[блог](http://koloskov.kz/), [@koloskof](https://twitter.com/koloskof), [facebook](https://www.facebook.com/koloskov.kz), [linledIn](https://ru.linkedin.com/in/koloskof), [angelList](https://angel.co/koloskov-kz)
+
 ### Комаров Роман aka kizu
 
 Разработчико интерфейсов в Яндексе, участвует в жизни сообщества [«Веб-стандарты»](http://web-standards.ru/), а также является мейнтейнером [Стайлуса](https://github.com/LearnBoost/stylus), создал [Хаяку](http://hayakubundle.com/) и работает над другими опенсорсными проектами.
