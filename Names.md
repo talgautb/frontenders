@@ -177,6 +177,15 @@ Front-end разработчик в [Злых марсиянах](https://evilma
 
 [iamstarkov.com](iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
 
+### Степанова Варя
+
+Фронтенд разработчик в [SC5 Online](http://sc5.io/), член БЭМ-сообщества, автор [Frontend Babel](http://frontendbabel.info/), участник конференций.
+
+[varya.me](http://varya.me/ru/), также [по английски](http://varya.me/)
+[русский твиттер](https://twitter.com/toivonens), [английский твиттер](https://twitter.com/varya_en)
+[github/varya](https://github.com/varya)
+[LinkedIn](https://fi.linkedin.com/pub/varvara-stepanova/30/72a/96b)
+
 ### Стрельцын Илья aka SelenIT2
 
 Соавтор и главный редактор сайта [CSS live](http://css-live.ru)
