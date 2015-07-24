@@ -78,7 +78,13 @@ Javascript маньяк, один из разработчиков ядра Proto
 
 Разработчико интерфейсов в Яндексе, участвует в жизни сообщества [«Веб-стандарты»](http://web-standards.ru/), а также является мейнтейнером [Стайлуса](https://github.com/LearnBoost/stylus), создал [Хаяку](http://hayakubundle.com/) и работает над другими опенсорсными проектами.
 
-[личный сайт](http://kizu.ru/),[блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
+[личный сайт](http://kizu.ru/), [блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
+
+### Корсунский Олег
+
+Фронтенд-разработчик, исследует редкие браузеры, автор [stickyfill](https://github.com/wilddeer/stickyfill)
+
+[блог](http://wd.dizaina.net/), [@sweatyhooker](https://twitter.com/sweatyhooker), [github](https://github.com/wilddeer)
 
 ### Кузнецов Владимир
 
