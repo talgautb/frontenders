@@ -153,6 +153,12 @@ Front-end разработчик в [Яндексе](http://company.yandex.com/)
 
 ## <a name='s'></a>С
 
+### Саломатин Андрей aka filipovskii
+
+JavaScript разработчик. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения универсальным, пробелы табуляции. Слушатель и докладчик. Организатор митапа [MoscowJS](moscowjs.ru), конференции [Frontend Union Conf](frontend-union.co). Со-ведущий подкаста [RadioJS](radiojs.ru).
+
+[личный сайт](http://andreysalomatin.me/), [@filipovskii](https://twitter.com/filipovskii), [github](https://github.com/filipovskii)
+
 ### Сапегин Артём aka sapegin
 
 Javascript-программист в [Badoo](http://badoo.com/ru/), пишет плагины для Gruntjs, ведет блог о [фотографии](http://birdwatcher.ru/)
