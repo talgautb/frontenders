@@ -155,7 +155,8 @@ Front-end разработчик в [Яндексе](http://company.yandex.com/)
 
 ### Саломатин Андрей aka filipovskii
 
-JavaScript разработчик. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения универсальным, пробелы табуляции. Слушатель и докладчик. Организатор митапа [MoscowJS](moscowjs.ru), конференции [Frontend Union Conf](frontend-union.co). Со-ведущий подкаста [RadioJS](radiojs.ru).
+JavaScript разработчик. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения универсальным, пробелы табуляции. Слушатель и докладчик. Организатор митапа [MoscowJS](http://moscowjs.ru), конференции [Frontend Union Conf](http://
+frontend-union.co). Со-ведущий подкаста [RadioJS](http://radiojs.ru).
 
 [личный сайт](http://andreysalomatin.me/), [@filipovskii](https://twitter.com/filipovskii), [github](https://github.com/filipovskii)
 
@@ -187,7 +188,7 @@ Front-end разработчик в [Злых марсиянах](https://evilma
 
 Фронтенд разработчик в [Fastdev](http://fastdev.se/), автор [getbem.com](http://getbem.com) и участник [Frontender Magazine](http://frontender.info/)
 
-[iamstarkov.com](iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
+[iamstarkov.com](https://iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
 
 ### Степанова Варя
 
@@ -232,6 +233,6 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Шувалов Антон
 
-фронтенд-разработчик в [Rambler&Co](http://rambler-co.ru/), мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и создатель стартапа [Reading List](reading-list.ru). Носит шлем, тяжело дышет…
+фронтенд-разработчик в [Rambler&Co](http://rambler-co.ru/), мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и создатель стартапа [Reading List](http://reading-list.ru). Носит шлем, тяжело дышет…
 
 [shuvalov.info](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton)
