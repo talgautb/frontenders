@@ -131,7 +131,7 @@ JavaScript and music addict.
 
 ### Немцев Антон aka silentimp
 
-Независимый разработчик, представитель организации [Web Standards](http://web-standards.ru/editors/) в Украине, основатель и редактор электронного журнала [Frontender Magazine](http://frontender.info/).
+Независимый разработчик, представитель организации «[Веб-стандарты](http://web-standards.ru/)» в Украине, основатель и редактор электронного журнала [Frontender Magazine](http://frontender.info/).
 
 [личный сайт](http://silentimp.info/), [@silentimp](https://twitter.com/silentimp), [github](https://github.com/SilentImp)
 
