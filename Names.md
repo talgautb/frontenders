@@ -116,7 +116,7 @@ JavaScript and music addict.
 
 ### Матюхин Юрий aka ymatuhin
 
-Разработчик интерфейсов, ведёт блог, перевожит статью для [Frontender Magazine](http://frontender.info/). Сделал удобный [онлайновый автопрефиксер](http://autoprefixer.github.io).
+Разработчик интерфейсов, ведёт блог, переводит статьи для [Frontender Magazine](http://frontender.info/). Сделал удобный [автопрефиксер онлайн](http://autoprefixer.github.io).
 
 [блог](http://ymatuhin.ru/), [@ymatuhin](https://twitter.com/ymatuhin), [github](http://github.com/ymatuhin)
 
