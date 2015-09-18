@@ -233,6 +233,6 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Шувалов Антон
 
-фронтенд-разработчик в [Rambler&Co](http://rambler-co.ru/), мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и создатель стартапа [Reading List](http://reading-list.ru). Носит шлем, тяжело дышет…
+фронтенд-разработчик в [Rambler&Co](http://rambler-co.ru/), мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и создатель стартапа Reading List. Носит шлем, тяжело дышет…
 
 [shuvalov.info](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton)
