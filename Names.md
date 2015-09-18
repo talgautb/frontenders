@@ -16,13 +16,13 @@
 
 ### Барановский Дмитрий
 
-Senior Computer Scientist в Adobe, Javascript Artist. Интересы: HTML, CSS, JavaScript, XSLT и SVG, автор [Raphaël](http://raphaeljs.com/).
+Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML, CSS, JavaScript, XSLT и SVG, автор [Raphaël](http://raphaeljs.com/).
 
 [личный сайт](http://dmitry.baranovskiy.com/), [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk), [github](https://github.com/DmitryBaranovskiy)
 
 ### Бухвалова Юля aka yoksel
 
-Верстальщик в LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), иногда выступает с докладами на конференциях.
+Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), иногда выступает с докладами на конференциях.
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
 
@@ -56,7 +56,7 @@ JavaScript-маньяк, один из разработчиков ядра Proto
 
 ### Зенич Игорь
 
-Руководитель отдела клиентской разработки в [iDeus](http://ideus.biz/). Евангелист [БЭМ](http://ru.bem.info/).
+Руководит отделом клиентской разработки в [iDeus](http://ideus.biz/). Евангелист [БЭМ](http://ru.bem.info/).
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz)
 
@@ -161,7 +161,7 @@ JavaScript-разработчик. Организатор митапа [MoscowJS
 
 ### Сапегин Артём aka sapegin
 
-Javascript-программист в [Badoo](http://badoo.com/ru/), пишет плагины для Gruntjs, ведет блог о [фотографии](http://birdwatcher.ru/).
+Фронтенд-разработчик из [Here](https://www.here.com/), пишет плагины для Gruntjs, ведет блог о [фотографии](http://birdwatcher.ru/).
 
 [личный сайт](http://sapegin.ru/), [наноблог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
 
