@@ -173,7 +173,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ### Ситник Андрей
 
-[Злой марсиянин](https://evilmartians.com/), автор [PostCss](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс-проектов. Верит, что компьютеры должны страдать
+[Злой марсианин](https://evilmartians.com/), автор [PostCSS](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс-проектов. Верит, что компьютеры должны страдать.
 
 [личный сайт](http://sitnik.ru/), [@andrey_sitnik](https://twitter.com/andrey_sitnik), [github](https://github.com/ai)
 
