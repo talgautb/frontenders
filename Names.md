@@ -125,7 +125,7 @@ JavaScript and music addict.
 
 Автор [htmlbook](http://htmlbook.ru) (ныне [WebReference](https://webref.ru/)), а также таких книг как «Ускорение работы сайта», «HTML и CSS на примерах», «Самоучитель по HTML», «Самоучитель по CSS».
 
-[htmlbook.ru](http://htmlbook.ru), WebReference](https://webref.ru/)
+[htmlbook.ru](http://htmlbook.ru), [WebReference](https://webref.ru/)
 
 ## <a name='n'></a>Н
 
