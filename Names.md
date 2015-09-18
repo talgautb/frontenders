@@ -28,7 +28,7 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ### Баранов Михаил aka h4
 
-Участник сообщества [Веб-стандарты](http://web-standards.ru/). Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
+Участник сообщества «[Веб-стандарты](http://web-standards.ru/)». Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
 
 [личный сайт](http://designnotfound.ru/), [@_h4_](https://twitter.com/_h4_), [github](https://github.com/h4)
 
@@ -50,7 +50,7 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ### Зайцев Юрий aka kangax
 
-JavaScript-маньяк, один из разработчиков ядра Prototypejs, автор [fabricjs](http://fabricjs.com/), HTMLMinifier, JSCritic.
+JavaScript-маньяк, один из разработчиков ядра [Prototype](http://prototypejs.org/), автор [fabricjs](http://fabricjs.com/), HTMLMinifier, JSCritic.
 
 [блог](http://perfectionkills.com/), [@kangax](https://twitter.com/kangax), [github](https://github.com/kangax)
 
@@ -173,7 +173,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ### Ситник Андрей
 
-[Злой марсианин](https://evilmartians.com/), автор [PostCSS](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс-проектов. Верит, что компьютеры должны страдать.
+Работает на [Злых марсианин](https://evilmartians.com/), автор [PostCSS](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс-проектов. Верит, что компьютеры должны страдать.
 
 [личный сайт](http://sitnik.ru/), [@andrey_sitnik](https://twitter.com/andrey_sitnik), [github](https://github.com/ai)
 
