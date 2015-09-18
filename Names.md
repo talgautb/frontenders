@@ -139,7 +139,7 @@ JavaScript and music addict.
 
 ### Олиянчук Вячеслав aka miripiruni
 
-Фронтенд-разработчик из [Яндекса](http://company.yandex.com/), участник опенсорс проекта [csscomb](http://csscomb.ru/), организатор конференций [wstdays](http://webstandardsdays.ru/), основатель http://wantr.ru/.
+Фронтенд-разработчик из [Яндекса](http://company.yandex.com/), организатор конференций [Web Standards Days](http://webstandardsdays.ru/), создатель [Wantr](http://wantr.ru/).
 
 [личный сайт](http://miripiruni.org/), [блог](http://mrprn.ru/), [@miripiruni](https://twitter.com/miripiruni), [github](https://github.com/miripiruni)
 
@@ -179,7 +179,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ### Сошников Дмитрий
 
-Автор цикла статей «Тонкости ECMA-262», независимый JavaScript-эксперт, работает в Facebook в должности Software Engineer.
+Автор цикла статей «Тонкости ECMA-262», независимый JavaScript-эксперт, работает в Facebook.
 
 [мой круг](http://dmitry-soshnikov.moikrug.ru/), [блог](http://dmitrysoshnikov.com/), [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov), [github](https://github.com/DmitrySoshnikov)
 
