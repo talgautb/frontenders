@@ -10,4 +10,4 @@
 
 ---
 
-[Спасибо за помощь](https://github.com/talgautb/frontender/graphs/contributors), редактор [Талгат Успанов](http://www.gtalk.kz).
+[Спасибо за помощь](https://github.com/talgautb/frontender/graphs/contributors), редактор [Талгат Успанов](http://www.gtalk.kz). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
