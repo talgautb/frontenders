@@ -20,7 +20,7 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 [личный сайт](http://dmitry.baranovskiy.com/), [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk), [github](https://github.com/DmitryBaranovskiy)
 
-### Бухвалова Юля aka yoksel
+### Бухвалова Юлия aka yoksel
 
 Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), иногда выступает с докладами на конференциях.
 
@@ -189,7 +189,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 [iamstarkov.com](https://iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
 
-### Степанова Варя
+### Степанова Варвара
 
 Фронтенд-разработчик из [SC5 Online](http://sc5.io/), член БЭМ-сообщества, автор [Frontend Babel](http://frontendbabel.info/), участник конференций.
 
