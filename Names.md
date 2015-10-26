@@ -60,6 +60,12 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz)
 
+### Зюзин Виталий aka juwain
+
+Автор курсов в [HTML Academy](https://htmlacademy.ru/), куратор коллективного твиттера [@cssunderhood](https://cssunderhood.ru/).
+
+[блог](http://juwain.ru/), [@juwain](https://twitter.com/juwain)
+
 ## <a name='k'></a>К
 
 ### Кантор Илья aka iliakan
