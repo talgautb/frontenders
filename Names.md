@@ -238,6 +238,6 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Шувалов Антон
 
-Фронтенд-разработчик из [Rambler&Co](http://rambler-co.ru/), мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и создатель стартапа Reading List.
+Тим-лид [Lazada](http://lazada.com/), немного мейнтейнер [Page.JS](http://github.com/visionmedia/page.js) и этих его гитхабов, пока ещё участник [Frontender Magazine](http://frontender.info/), главный искательнь ведущих для [@jsunderhood](https://twitter.com/jsunderhood), вместе с Вовой Старковым перевёл «[Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/)» Эдди Османи. Докладчик РИТ, WSD и MoscowJS.
 
-[shuvalov.info](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton)
+[shuvalov.info](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton), [Medium](https://medium.com/@a8h333)
