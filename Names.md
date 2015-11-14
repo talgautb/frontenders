@@ -54,11 +54,11 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 [блог](http://perfectionkills.com/), [@kangax](https://twitter.com/kangax), [github](https://github.com/kangax)
 
-### Зенич Игорь
+### Зенич Игорь aka delka
 
-Руководит отделом клиентской разработки в [iDeus](http://ideus.biz/). Евангелист [БЭМ](http://ru.bem.info/).
+Ранее руководил отделом клиентской разработки в [iDeus](http://ideus.biz/), в данный момент — работает в [@EPAMKharkiv](https://twitter.com/EPAMKharkiv). Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist).
 
-[блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz)
+[блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz), [github](https://github.com/delka)
 
 ### Зюзин Виталий aka juwain
 
