@@ -6,7 +6,7 @@
 
 ## <a name='a'></a>А
 
-### Артюх Юрий aka akella
+### Артюх Юрий
 
 Фрилансер из Киева (летом – Евпатории). Предприниматель разных затей.
 
@@ -20,13 +20,13 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 [личный сайт](http://dmitry.baranovskiy.com/), [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk), [github](https://github.com/DmitryBaranovskiy)
 
-### Бухвалова Юлия aka yoksel
+### Бухвалова Юлия
 
 Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), иногда выступает с докладами на конференциях.
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
 
-### Баранов Михаил aka h4
+### Баранов Михаил
 
 Участник сообщества «[Веб-стандарты](http://web-standards.ru/)». Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
 
@@ -40,7 +40,7 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 [личный сайт](http://rdvornov.moikrug.ru/), [@rdvornov](https://twitter.com/rdvornov), [github](https://github.com/lahmatiy)
 
-### Дудин Дмитрий aka nedudi
+### Дудин Дмитрий
 
 Организатор [4frontby](https://twitter.com/4frontby).
 
@@ -48,19 +48,19 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ## <a name='z'></a>З
 
-### Зайцев Юрий aka kangax
+### Зайцев Юрий
 
 JavaScript-маньяк, один из разработчиков ядра [Prototype](http://prototypejs.org/), автор [fabricjs](http://fabricjs.com/), HTMLMinifier, JSCritic.
 
 [блог](http://perfectionkills.com/), [@kangax](https://twitter.com/kangax), [github](https://github.com/kangax)
 
-### Зенич Игорь aka delka
+### Зенич Игорь
 
 Ранее руководил отделом клиентской разработки в [iDeus](http://ideus.biz/), в данный момент — работает в [@EPAMKharkiv](https://twitter.com/EPAMKharkiv). Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist).
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz), [github](https://github.com/delka)
 
-### Зюзин Виталий aka juwain
+### Зюзин Виталий
 
 Автор курсов в [HTML Academy](https://htmlacademy.ru/), куратор коллективного твиттера [@cssunderhood](https://cssunderhood.ru/).
 
@@ -68,7 +68,7 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 ## <a name='k'></a>К
 
-### Кантор Илья aka iliakan
+### Кантор Илья
 
 Автор [javascript.ru](http://javascript.ru/) и учебника о [JS](http://learn.javascript.ru). Работал в основной команде фреймворка Dojo Toolkit.
 
@@ -80,7 +80,7 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 [блог](http://koloskov.kz/), [@koloskof](https://twitter.com/koloskof), [facebook](https://www.facebook.com/koloskov.kz), [linkedIn](https://ru.linkedin.com/in/koloskof), [angelList](https://angel.co/koloskov-kz)
 
-### Комаров Роман aka kizu
+### Комаров Роман
 
 Разработчик интерфейсов в Яндексе, участвует в жизни сообщества «[Веб-стандарты](http://web-standards.ru/)», а также является мейнтейнером [Стайлуса](https://github.com/LearnBoost/stylus), создал [Хаяку](http://hayakubundle.com/) и работает над другими опенсорсными проектами.
 
@@ -106,7 +106,7 @@ JavaScript and music addict.
 
 [личный сайт](https://romanliutikov.com/), [блог](http://blog.romanliutikov.com/), [@roman01la](https://twitter.com/roman01la), [github](https://github.com/roman01la)
 
-### Лялин Дмитрий aka Dimox
+### Лялин Дмитрий
 
 Верстальщик, автор блога «Свобода слова вебмастерского», автор плагина jQueryFormStyler.
 
@@ -114,13 +114,13 @@ JavaScript and music addict.
 
 ## <a name='m'></a>М
 
-### Макеев Вадим aka pepelsbey
+### Макеев Вадим
 
 Веб-евангелист [«Opera Software»](http://opera.com/). Руководит сообществом «[Веб-стандарты](http://web-standarts.ru/)», устраивает конференции [Web Standards Days](http://webstandardsdays.ru/), занимается техническим редактированием и консультирует по клиентским технологиям.
 
 [pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
 
-### Матюхин Юрий aka ymatuhin
+### Матюхин Юрий
 
 Разработчик интерфейсов, ведёт блог, переводит статьи для [Frontender Magazine](http://frontender.info/). Сделал удобный [автопрефиксер онлайн](http://autoprefixer.github.io).
 
@@ -135,7 +135,7 @@ JavaScript and music addict.
 
 ## <a name='n'></a>Н
 
-### Немцев Антон aka silentimp
+### Немцев Антон
 
 Независимый разработчик, представитель организации «[Веб-стандарты](http://web-standards.ru/)» в Украине, основатель и редактор электронного журнала [Frontender Magazine](http://frontender.info/).
 
@@ -143,7 +143,7 @@ JavaScript and music addict.
 
 ## <a name='o'></a>О
 
-### Олиянчук Вячеслав aka miripiruni
+### Олиянчук Вячеслав
 
 Фронтенд-разработчик из [Яндекса](http://company.yandex.com/), организатор конференций [Web Standards Days](http://webstandardsdays.ru/), создатель [Wantr](http://wantr.ru/).
 
@@ -159,19 +159,19 @@ JavaScript and music addict.
 
 ## <a name='s'></a>С
 
-### Саломатин Андрей aka filipovskii
+### Саломатин Андрей
 
 JavaScript-разработчик. Организатор митапа [MoscowJS](http://moscowjs.ru), конференции [Frontend Union Conf](http://frontend-union.co). Со-ведущий подкаста [RadioJS](radiojs.ru).
 
 [личный сайт](http://andreysalomatin.me/), [@filipovskii](https://twitter.com/filipovskii), [github](https://github.com/filipovskii)
 
-### Сапегин Артём aka sapegin
+### Сапегин Артём
 
 Фронтенд-разработчик из [Here](https://www.here.com/), пишет плагины для Gruntjs, ведет блог о [фотографии](http://birdwatcher.ru/).
 
 [личный сайт](http://sapegin.ru/), [наноблог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
 
-### Семёнов Дмитрий aka dimsemenov
+### Семёнов Дмитрий
 
 UX дизайнер, веб-разработчик, автор open source проектов: [PhotoSwipe](http://photoswipe.com/), [Magnific popup](http://dimsemenov.com/plugins/magnific-popup/).
 
@@ -204,7 +204,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 [github/varya](https://github.com/varya)
 [LinkedIn](https://fi.linkedin.com/pub/varvara-stepanova/30/72a/96b)
 
-### Стрельцын Илья aka SelenIT2
+### Стрельцын Илья
 
 Соавтор и главный редактор сайта [CSS live](http://css-live.ru)
 
@@ -212,7 +212,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ## <a name='u'></a>У
 
-### Усачёв Максим aka psyw
+### Усачёв Максим
 
 CEO и автор сайта [CSS live](http://сss-live.ru)
 
@@ -220,7 +220,7 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ## <a name='h'></a>Х
 
-### Харитонов Роберт aka operatino
+### Харитонов Роберт
 
 Возглавлял отдел фронтенда в [Одноклассниках](http://ok.ru), автор таких проектов как [SourceJS](http://sourcejs.com/), [MCSS](http://operatino.github.io/MCSS/en/), [DevShelf](http://devshelf.us/)
 
