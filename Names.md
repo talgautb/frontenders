@@ -171,6 +171,12 @@ JavaScript-разработчик. Организатор митапа [MoscowJS
 
 [личный сайт](http://sapegin.ru/), [наноблог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
 
+### Селезнёва Анна
+
+Креативный разработчик, спикер конференций [Web Standard Days](http://wsd.events/), [FrontTalks](http://fronttalks.ru/), Яндекс, [404fest](http://2014.404fest.ru/), [Digital Bay](http://digitalbay.ru/) и минских митапах [Web Not Bombs](http://webnotbombs.net/), Girls Not Bombs.
+
+[личный сайт](http://askd.rocks/), [@asktwi](https://twitter.com/asktwi)
+
 ### Семёнов Дмитрий
 
 UX дизайнер, веб-разработчик, автор open source проектов: [PhotoSwipe](http://photoswipe.com/), [Magnific popup](http://dimsemenov.com/plugins/magnific-popup/).
