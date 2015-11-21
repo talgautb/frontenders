@@ -1,8 +1,6 @@
-# Русскоязычные фронтендеры
+# Фронтендеры
 
-Оглавление:
-
-[А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+Оглавление: [А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -22,7 +20,7 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ### Бухвалова Юлия
 
-Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), иногда выступает с докладами на конференциях.
+Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), выступает с докладами на конференциях.
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
 
@@ -36,13 +34,13 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ### Дворнов Роман
 
-Автор фреймворка [basis.js](https://github.com/basisjs/basisjs).
+Автор js-фреймворка [basis.js](https://github.com/basisjs/basisjs), докладчик конференций и митапов (MoscowJS, РИТ, FrontTalks, WSD и других).
 
-[личный сайт](http://rdvornov.moikrug.ru/), [@rdvornov](https://twitter.com/rdvornov), [github](https://github.com/lahmatiy)
+[личный сайт](https://moikrug.ru/rdvornov), [@rdvornov](https://twitter.com/rdvornov), [github](https://github.com/lahmatiy)
 
 ### Дудин Дмитрий
 
-Организатор [4frontby](https://twitter.com/4frontby).
+Организатор [4frontby](https://twitter.com/4frontby), докладчик.
 
 [личный сайт](http://html5.by/), [@nedudi](https://twitter.com/nedudi), [github](https://github.com/nedudi)
 
@@ -56,7 +54,7 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 ### Зенич Игорь
 
-Ранее руководил отделом клиентской разработки в [iDeus](http://ideus.biz/), в данный момент — работает в [@EPAMKharkiv](https://twitter.com/EPAMKharkiv). Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist).
+Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist), докладчик.
 
 [блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz), [github](https://github.com/delka)
 
@@ -72,17 +70,17 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 Автор [javascript.ru](http://javascript.ru/) и учебника о [JS](http://learn.javascript.ru). Работал в основной команде фреймворка Dojo Toolkit.
 
-[мой круг](https://ikantor.moikrug.ru/), [@iliakan](https://twitter.com/iliakan), [github](https://github.com/iliakan)
+[личный сайт](https://moikrug.ru/ikantor/), [@iliakan](https://twitter.com/iliakan), [github](https://github.com/iliakan)
 
 ### Колосков Михаил
 
 Фанатик [«Дизайна в браузере»](http://habrahabr.ru/post/238485/). Дизайнит интерфейсы, используя мощь фронтенд технологий. Основной вектор — это выстраивание процессов и среды для создания масштабируемых веб-интерфейсов.
 
-[блог](http://koloskov.kz/), [@koloskof](https://twitter.com/koloskof), [facebook](https://www.facebook.com/koloskov.kz), [linkedIn](https://ru.linkedin.com/in/koloskof), [angelList](https://angel.co/koloskov-kz)
+[блог](http://koloskov.kz/), [@koloskof](https://twitter.com/koloskof), [linkedIn](https://ru.linkedin.com/in/koloskof), [facebook](https://www.facebook.com/koloskov.kz)
 
 ### Комаров Роман
 
-Разработчик интерфейсов в Яндексе, участвует в жизни сообщества «[Веб-стандарты](http://web-standards.ru/)», а также является мейнтейнером [Стайлуса](https://github.com/LearnBoost/stylus), создал [Хаяку](http://hayakubundle.com/) и работает над другими опенсорсными проектами.
+Разработчик интерфейсов в [Яндексе](http://company.yandex.com/), участник сообщества «[Веб-стандарты](http://web-standards.ru/)», мейнтейнер [Stylus](https://github.com/LearnBoost/stylus), автор [Hayaku](http://hayakubundle.com/), докладчик.
 
 [личный сайт](http://kizu.ru/), [блог](http://kizu.ru/blog/), [@ki_zu](https://twitter.com/ki_zu), [github](https://github.com/kizu)
 
@@ -102,13 +100,13 @@ JavaScript and music addict.
 
 ### Лютиков Роман
 
-Чекист [доступности](https://romanliutikov.com/slides/accessibility-for-everybody/) из GlobalLogic Ukraine.
+Чекист [доступности](https://romanliutikov.com/slides/accessibility-for-everybody/), докладчик.
 
 [личный сайт](https://romanliutikov.com/), [блог](http://blog.romanliutikov.com/), [@roman01la](https://twitter.com/roman01la), [github](https://github.com/roman01la)
 
 ### Лялин Дмитрий
 
-Верстальщик, автор блога «Свобода слова вебмастерского», автор плагина jQueryFormStyler.
+Автор блога «Свобода слова вебмастерского», автор плагинов ([jQueryFormStyler](https://github.com/Dimox/jQueryFormStyler), [Share42.com](http://share42.com/ru) и других).
 
 [блог](http://dimox.name/), [@Dimox_ru](https://twitter.com/Dimox_ru), [github](https://github.com/Dimox)
 
@@ -116,20 +114,19 @@ JavaScript and music addict.
 
 ### Макеев Вадим
 
-Веб-евангелист [«Opera Software»](http://opera.com/). Руководит сообществом «[Веб-стандарты](http://web-standarts.ru/)», устраивает конференции [Web Standards Days](http://webstandardsdays.ru/), занимается техническим редактированием и консультирует по клиентским технологиям.
+Веб-евангелист [«Opera Software»](http://opera.com/), руководитель сообщества [«Веб-стандарты»](http://web-standarts.ru/), организатор конференции [Web Standards Days](http://webstandardsdays.ru/), докладчик.
 
-[pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
+[блог](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey), [github](https://github.com/pepelsbey/)
 
 ### Матюхин Юрий
 
-Разработчик интерфейсов, ведёт блог, переводит статьи для [Frontender Magazine](http://frontender.info/). Сделал удобный [автопрефиксер онлайн](http://autoprefixer.github.io).
+Переводчик [Frontender Magazine](http://frontender.info/), автор [«автопрефиксер онлайн»](http://autoprefixer.github.io).
 
 [блог](http://ymatuhin.ru/), [@ymatuhin](https://twitter.com/ymatuhin), [github](http://github.com/ymatuhin)
 
-
 ### Мержевич Влад
 
-Автор [htmlbook](http://htmlbook.ru) (ныне [WebReference](https://webref.ru/)), а также таких книг как «Ускорение работы сайта», «HTML и CSS на примерах», «Самоучитель по HTML», «Самоучитель по CSS».
+Автор [htmlbook](http://htmlbook.ru) и ([WebReference](https://webref.ru/)), автор книг «Ускорение работы сайта», «HTML и CSS на примерах», «Самоучитель по HTML», «Самоучитель по CSS».
 
 [htmlbook.ru](http://htmlbook.ru), [WebReference](https://webref.ru/)
 
@@ -137,7 +134,7 @@ JavaScript and music addict.
 
 ### Немцев Антон
 
-Независимый разработчик, представитель организации «[Веб-стандарты](http://web-standards.ru/)» в Украине, основатель и редактор электронного журнала [Frontender Magazine](http://frontender.info/).
+Представитель сообщества «[Веб-стандарты](http://web-standards.ru/)» в Украине, основатель и редактор электронного журнала [Frontender Magazine](http://frontender.info/).
 
 [личный сайт](http://silentimp.info/), [@silentimp](https://twitter.com/silentimp), [github](https://github.com/SilentImp)
 
@@ -145,7 +142,7 @@ JavaScript and music addict.
 
 ### Олиянчук Вячеслав
 
-Фронтенд-разработчик из [Яндекса](http://company.yandex.com/), организатор конференций [Web Standards Days](http://webstandardsdays.ru/), создатель [Wantr](http://wantr.ru/).
+Фронтенд-разработчик из [Яндекса](http://company.yandex.com/), организатор и участник конференции [Web Standards Days](http://webstandardsdays.ru/), создатель [Wantr](http://wantr.ru/).
 
 [личный сайт](http://miripiruni.org/), [блог](http://mrprn.ru/), [@miripiruni](https://twitter.com/miripiruni), [github](https://github.com/miripiruni)
 
@@ -153,23 +150,23 @@ JavaScript and music addict.
 
 ### Поликарпов Артём
 
-Автор галереи [fotorama](http://fotorama.io/).
+Автор галереи [fotorama](http://fotorama.io/), докладчик.
 
-[artpolikarpov.ru](http://artpolikarpov.ru), [@artpolikarpov](https://twitter.com/artpolikarpov)
+[блог](http://artpolikarpov.ru), [@artpolikarpov](https://twitter.com/artpolikarpov)
 
 ## <a name='s'></a>С
 
 ### Саломатин Андрей
 
-JavaScript-разработчик. Организатор митапа [MoscowJS](http://moscowjs.ru), конференции [Frontend Union Conf](http://frontend-union.co). Со-ведущий подкаста [RadioJS](radiojs.ru).
+Организатор митапа [MoscowJS](http://moscowjs.ru), конференции [Frontend Union Conf](http://frontend-union.co), со-ведущий подкаста [RadioJS](radiojs.ru).
 
 [личный сайт](http://andreysalomatin.me/), [@filipovskii](https://twitter.com/filipovskii), [github](https://github.com/filipovskii)
 
 ### Сапегин Артём
 
-Фронтенд-разработчик из [Here](https://www.here.com/), пишет плагины для Gruntjs, ведет блог о [фотографии](http://birdwatcher.ru/).
+Фронтенд-разработчик из [Here](https://www.here.com/), автор плагинов для Gruntjs, автор блога о [фотографии](http://birdwatcher.ru/).
 
-[личный сайт](http://sapegin.ru/), [наноблог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
+[личный сайт](http://sapegin.ru/), [блог](http://nano.sapegin.ru/), [@sapegin](https://twitter.com/sapegin), [github](https://github.com/sapegin)
 
 ### Селезнёва Анна
 
@@ -185,7 +182,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ### Ситник Андрей
 
-Работает на [Злых марсиан](https://evilmartians.com/), автор [PostCSS](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других опенсорс-проектов. Верит, что компьютеры должны страдать.
+Работает на [Злых марсиан](https://evilmartians.com/), автор [PostCSS](https://github.com/postcss/postcss), [autoprefixer](https://github.com/postcss/autoprefixer), [easings.net](http://easings.net/) и других проектов, докладчик.
 
 [личный сайт](http://sitnik.ru/), [@andrey_sitnik](https://twitter.com/andrey_sitnik), [github](https://github.com/ai)
 
@@ -193,22 +190,19 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 Автор цикла статей «Тонкости ECMA-262», независимый JavaScript-эксперт, работает в Facebook.
 
-[мой круг](http://dmitry-soshnikov.moikrug.ru/), [блог](http://dmitrysoshnikov.com/), [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov), [github](https://github.com/DmitrySoshnikov)
+[личный сайт](http://dmitry-soshnikov.moikrug.ru/), [блог](http://dmitrysoshnikov.com/), [@DmitrySoshnikov](https://twitter.com/DmitrySoshnikov), [github](https://github.com/DmitrySoshnikov)
 
 ### Старков Владимир
 
 Фронтенд-разработчик из [Fastdev](http://fastdev.se/), автор [getbem.com](http://getbem.com) и участник [Frontender Magazine](http://frontender.info/).
 
-[iamstarkov.com](https://iamstarkov.com) ([на русском](http://vstarkov.ru/)), _@iamstarkov_ на [твиттере](https://twitter.com/iamstarkov) и [гитхабе](https://github.com/iamstarkov)
+[блог](http://vstarkov.ru/), [@iamstarkov](https://twitter.com/iamstarkov), [github](https://github.com/iamstarkov)
 
 ### Степанова Варвара
 
 Фронтенд-разработчик из [SC5 Online](http://sc5.io/), член БЭМ-сообщества, автор [Frontend Babel](http://frontendbabel.info/), участник конференций.
 
-[varya.me](http://varya.me/ru/), также [по английски](http://varya.me/)
-[русский твиттер](https://twitter.com/toivonens), [английский твиттер](https://twitter.com/varya_en)
-[github/varya](https://github.com/varya)
-[LinkedIn](https://fi.linkedin.com/pub/varvara-stepanova/30/72a/96b)
+[блог](http://varya.me/ru/), [@toivonens](https://twitter.com/toivonens), [github](https://github.com/varya), [LinkedIn](https://fi.linkedin.com/pub/varvara-stepanova/30/72a/96b)
 
 ### Стрельцын Илья
 
@@ -220,7 +214,7 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 ### Усачёв Максим
 
-CEO и автор сайта [CSS live](http://сss-live.ru)
+CEO и автор сайта [CSS live](http://сss-live.ru), администратор [htmlforum.ru](http://htmlforum.ru/).
 
 [сайт](http://css-live.ru/), [@psyw](https://twitter.com/psyw)
 
@@ -228,7 +222,7 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Харитонов Роберт
 
-Возглавлял отдел фронтенда в [Одноклассниках](http://ok.ru), автор таких проектов как [SourceJS](http://sourcejs.com/), [MCSS](http://operatino.github.io/MCSS/en/), [DevShelf](http://devshelf.us/)
+Автор [SourceJS](http://sourcejs.com/), [MCSS](http://operatino.github.io/MCSS/en/), [DevShelf](http://devshelf.us/), докладчик.
 
 [личный сайт](http://rhr.me/), [блог](http://tohtml.it/), [@operatino](https://twitter.com/operatino)
 
@@ -236,7 +230,7 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Чикуёнок Сергей
 
-Маг оптимизации графики, эксперт [Smashing Magazine](http://www.smashingmagazine.com/) и главный веб-технолог [Innova Systems](http://inn.ru/). Автор [Emmet](http://emmet.io).
+Маг оптимизации графики, эксперт [Smashing Magazine](http://www.smashingmagazine.com/) и главный веб-технолог [Innova Systems](http://inn.ru/), автор [Emmet](http://emmet.io).
 
 [блог](http://chikuyonok.ru/), [@chikuyonok](https://twitter.com/chikuyonok), [github](https://github.com/sergeche)
 
@@ -244,6 +238,10 @@ CEO и автор сайта [CSS live](http://сss-live.ru)
 
 ### Шувалов Антон
 
-Мейнтейнер [Page.JS](http://github.com/visionmedia/page.js), участник [Frontender Magazine](http://frontender.info/), модератор коллективного твиттер-аккаунта [@jsunderhood](https://twitter.com/jsunderhood), автор перевода «[Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/)» Эдди Османи. Докладчик РИТ, WSD и MoscowJS.
+Мейнтейнер [Page.JS](http://github.com/visionmedia/page.js), участник [Frontender Magazine](http://frontender.info/), модератор коллективного твиттер-аккаунта [@jsunderhood](https://twitter.com/jsunderhood), автор перевода «[Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/)» Эдди Османи, докладчик РИТ, WSD и MoscowJS.
 
-[shuvalov.info](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton), [Medium](https://medium.com/@a8h333)
+[блог](http://shuvalov.info/), [@shuvalov_anton](https://twitter.com/shuvalov_anton), [github](https://github.com/shuvalov-anton), [Medium](https://medium.com/@a8h333)
+
+---
+
+[Спасибо за помощь](https://github.com/talgautb/frontender/graphs/contributors), редактор [Талгат Успанов](http://www.gtalk.kz). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
