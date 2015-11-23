@@ -92,9 +92,9 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 ### Кузнецов Владимир
 
-JavaScript and music addict.
+Веб-разработчик в [Graph](http://graph.uk/), докладчик на профессиональных конференциях и митапах («[Web Standards Days](http://wsd.events/)», «[Frontend Conf](http://frontendconf.ru)», «[UWDC](https://uwdc.ru)», «[4front](https://www.facebook.com/groups/4front/)» и других).
 
-[блог](http://noteskeeper.ru/), [@mista_k](https://twitter.com/mista_k), [github](https://github.com/mistakster)
+[блог](http://noteskeeper.ru/), [@mistakster](https://twitter.com/mistakster) (по-английски про разработку), [@mista_k](https://twitter.com/mista_k) (по-русски больше про жизнь), [github](https://github.com/mistakster)
 
 ## <a name='l'></a>Л
 
