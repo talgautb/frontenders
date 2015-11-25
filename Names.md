@@ -12,6 +12,12 @@
 
 ## <a name='b'></a>Б
 
+### Баранов Михаил
+
+Участник сообщества «[Веб-стандарты](http://web-standards.ru/)». Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
+
+[личный сайт](http://designnotfound.ru/), [@\_h4\_](https://twitter.com/_h4_), [github](https://github.com/h4)
+
 ### Барановский Дмитрий
 
 Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML, CSS, JavaScript, XSLT и SVG, автор [Raphaël](http://raphaeljs.com/).
@@ -20,15 +26,9 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 
 ### Бухвалова Юлия
 
-Верстальщик из LiveJournal, любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), выступает с докладами на конференциях.
+Верстальщик из [LiveJournal](http://www.livejournal.com/), любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), выступает с докладами на конференциях.
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
-
-### Баранов Михаил
-
-Участник сообщества «[Веб-стандарты](http://web-standards.ru/)». Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
-
-[личный сайт](http://designnotfound.ru/), [@\_h4\_](https://twitter.com/_h4_), [github](https://github.com/h4)
 
 ## <a name='d'></a>Д
 
