@@ -1,6 +1,6 @@
 # Фронтендеры
 
-Оглавление: [А](#a) [Б](#b) В Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+Оглавление: [А](#a) [Б](#b) [В](#v) Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -29,6 +29,14 @@ Senior Computer Scientist из Adobe, JavaScript Artist. Интересы: HTML,
 Верстальщик из [LiveJournal](http://www.livejournal.com/), любит [экспериментировать](http://codepen.io/yoksel/) с кодом (особенно CSS и SVG), выступает с докладами на конференциях.
 
 [личный сайт](http://yoksel.ru/), [css блог](http://css.yoksel.ru/), [@yoksel](https://twitter.com/yoksel), [github](https://github.com/yoksel)
+
+## <a name='v'></a>В
+
+### Воищев Иван
+
+Разработчик в команде [Protein](http://theprotein.io) и мейнтейнер [PostHTML](https://github.com/posthtml), докладчик. Активный участник разработки проектов и Open Source библиотек на полном БЭМ стеке технологий. 
+
+[@voischev](https://twitter.com/voischev), [github](https://github.com/voischev)
 
 ## <a name='d'></a>Д
 
