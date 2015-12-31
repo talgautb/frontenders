@@ -108,7 +108,7 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 ### Лютиков Роман
 
-Чекист [доступности](https://romanliutikov.com/slides/accessibility-for-everybody/), докладчик.
+Чеклист [доступности](https://romanliutikov.com/slides/accessibility-for-everybody/), докладчик.
 
 [личный сайт](https://romanliutikov.com/), [блог](http://blog.romanliutikov.com/), [@roman01la](https://twitter.com/roman01la), [github](https://github.com/roman01la)
 
