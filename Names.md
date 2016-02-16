@@ -1,6 +1,6 @@
 # Фронтендеры
 
-Оглавление: [А](#a) [Б](#b) [В](#v) Г [Д](#d) Е Ё Ж [З](#z) И Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
+Оглавление: [А](#a) [Б](#b) [В](#v) Г [Д](#d) Е Ё Ж [З](#z) [И](#i) Й [К](#k) [Л](#l) [М](#m) [Н](#n) [О](#o) [П](#p) Р [С](#s) Т [У](#u) Ф [Х](#h) Ц [Ч](#ch) [Ш](#sh) Щ Э Ю Я
 
 ## <a name='a'></a>А
 
@@ -71,6 +71,13 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 Автор курсов в [HTML Academy](https://htmlacademy.ru/), куратор коллективного твиттера [@cssunderhood](https://cssunderhood.ru/).
 
 [блог](http://juwain.ru/), [@juwain](https://twitter.com/juwain)
+
+## <a name='i'></a>И
+
+### Инешин Денис
+JavaScript-разработчик в [Букинге](https://booking.com). Автор плагинов [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) и [Ion.Sound](https://github.com/IonDen/ion.sound)
+
+[личный сайт](http://ionden.com), [@ionden666](https://twitter.com/ionden666), [github](https://github.com/IonDen)
 
 ## <a name='k'></a>К
 
