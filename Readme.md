@@ -2,7 +2,7 @@
 
 Полезные ссылки на фронтендеров.
 
-Оглавление: [А](Names.md#a) [Б](Names.md#b) В Г [Д](Names.md#d) Е Ё Ж [З](Names.md#z) И Й [К](Names.md#k) [Л](Names.md#l) [М](Names.md#m) [Н](Names.md#n) [О](Names.md#o) [П](Names.md#p) Р [С](Names.md#s) Т [У](Names.md#u) Ф [Х](Names.md#h) Ц [Ч](Names.md#ch) [Ш](Names.md#sh) Щ Э Ю Я
+Оглавление: [А](Names.md#a) [Б](Names.md#b) В Г [Д](Names.md#d) Е Ё Ж [З](Names.md#z) [И](Names.md#i) Й [К](Names.md#k) [Л](Names.md#l) [М](Names.md#m) [Н](Names.md#n) [О](Names.md#o) [П](Names.md#p) Р [С](Names.md#s) Т [У](Names.md#u) Ф [Х](Names.md#h) Ц [Ч](Names.md#ch) [Ш](Names.md#sh) Щ Э Ю Я
 
 ## Участие
 
