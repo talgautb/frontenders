@@ -201,6 +201,12 @@ UX дизайнер, веб-разработчик, автор open source пр�
 
 [личный сайт](http://sitnik.ru/), [@andrey_sitnik](https://twitter.com/andrey_sitnik), [github](https://github.com/ai)
 
+### Соломка Олег
+
+Создатель [mojs](http://mojs.io/). Aвтор для [codrops](http://tympanus.net/codrops/) и [smashingmagazine](https://www.smashingmagazine.com/). 
+
+[codepen](http://codepen.io/sol0mka/), [@legomushroom](https://twitter.com/legomushroom/), [github](https://github.com/legomushroom)
+
 ### Сошников Дмитрий
 
 Автор цикла статей «Тонкости ECMA-262», независимый JavaScript-эксперт, работает в Facebook.
