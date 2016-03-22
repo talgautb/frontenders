@@ -42,6 +42,12 @@ Consultant front-end architect, named Young Developer of the Year in the 2014 [n
 
 ## S
 
+### Sindre Sorhus
+
+Creator of [AVA](https://github.com/sindresorhus/ava), [TodoMVC](http://todomvc.com/), [Yeoman](http://yeoman.io/).  Curator of [awesome lists](https://github.com/sindresorhus/awesome).
+
+[sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus), [github](https://github.com/sindresorhus)
+
 ### Sara Soueidan
 
 Named Developer of the Year in the 2015 net [awards](https://thenetawards.com/), author of the [Codrops CSS Reference](http://tympanus.net/codrops/css_reference) and co-author of the [Smashing Book 5](https://www.smashingmagazine.com/2015/03/real-life-responsive-web-design-smashing-book-5/), [speaker](https://sarasoueidan.com/speaking), [speaker](https://sarasoueidan.com/speaking/).
