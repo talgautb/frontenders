@@ -1,13 +1,15 @@
-# [Фронтендеры](Names.md)
+# Frontenders
 
-Полезные ссылки на фронтендеров.
+> Awesome list of frontenders.
 
-Оглавление: [А](Names.md#a) [Б](Names.md#b) [В](Names.md#v) Г [Д](Names.md#d) Е Ё Ж [З](Names.md#z) [И](Names.md#i) Й [К](Names.md#k) [Л](Names.md#l) [М](Names.md#m) [Н](Names.md#n) [О](Names.md#o) [П](Names.md#p) Р [С](Names.md#s) Т [У](Names.md#u) Ф [Х](Names.md#h) Ц [Ч](Names.md#ch) [Ш](Names.md#sh) Щ Э Ю Я
+Table of Contents: A B [C](en.md#c) D E F [G](en.md#g) H I J K L M N [O](en.md#o) P Q [R](en.md#r) [S](en.md#s) T U [V](en.md#v) W X Y Z
 
-## Участие
+Оглавление: [А](ru.md#a) [Б](ru.md#b) [В](ru.md#v) Г [Д](ru.md#d) Е Ё Ж [З](ru.md#z) [И](ru.md#i) Й [К](ru.md#k) [Л](ru.md#l) [М](ru.md#m) [Н](ru.md#n) [О](ru.md#o) [П](ru.md#p) Р [С](ru.md#s) Т [У](ru.md#u) Ф [Х](ru.md#h) Ц [Ч](ru.md#ch) [Ш](ru.md#sh) Щ Э Ю Я
 
-В составлении списка может принять участие любой желающий. Читайте подробнее [в правилах участия](Contributing.md).
+## Contribution
+
+[How to contributing](Contributing.md).
 
 ---
 
-[Спасибо за помощь](https://github.com/talgautb/frontender/graphs/contributors), редактор [Талгат Успанов](http://www.gtalk.kz). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+[Thanks to all contributors](https://github.com/talgautb/frontender/graphs/contributors), editor [Talgat Uspanov](http://www.gtalk.kz). [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
