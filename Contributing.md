@@ -1,3 +1,32 @@
+# Adding to this list.
+
+The list includes people mostly front-end developers who make this world better:
+- authors of articles;
+- speakers and organizers of conferences, meetups;
+- members of open-source projects.
+
+# Format.
+
+Provide us with the following information about a person:
+
+```
+Name Surname
+
+a few words about a person.
+
+personal website, personal blog, @twitter, github, linkedIn
+```
+
+Recommendations:
+- don't use phrases or words like "front-end developer";
+- try to write only important information;
+- try to add links only on important projects;
+- links at person's projects should be in the description section;
+- use real names;
+- use the following sequence for person's profiles: personal website, personal blog, @twitter, github, linkedIn;
+- preferable to add only two additional links to person's profiles;
+- this is not necessary to give links to all person's projects or profiles.
+
 # Принцип добавления
 
 Cписок формируется из следующих фронтендеров:
