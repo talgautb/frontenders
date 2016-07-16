@@ -64,7 +64,7 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist), докладчик.
 
-[блог](http://delka.name/blog/), [@delaz](https://twitter.com/delaz), [github](https://github.com/delka)
+[блог](http://delka.name/blog/), [@delaz](https://twitter.com/ihorzenich), [github](https://github.com/delka)
 
 ### Зюзин Виталий
 
