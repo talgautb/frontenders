@@ -1,6 +1,6 @@
 # Frontenders
 
-A B [C](#c) D E F [G](#g) H I J K L M N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y Z
+A B [C](#c) D E F [G](#g) H I J K L M N [O](#o) P Q [R](#r) [S](#s) [T](#t) U [V](#v) W X Y Z
 
 ## C
 
@@ -53,6 +53,16 @@ Creator of [AVA](https://github.com/sindresorhus/ava), [TodoMVC](http://todomvc.
 Named Developer of the Year in the 2015 net [awards](https://thenetawards.com/), author of the [Codrops CSS Reference](http://tympanus.net/codrops/css_reference) and co-author of the [Smashing Book 5](https://www.smashingmagazine.com/2015/03/real-life-responsive-web-design-smashing-book-5/), [speaker](https://sarasoueidan.com/speaking), [speaker](https://sarasoueidan.com/speaking/).
 
 [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan), [github](https://github.com/SaraSoueidan)
+
+## T
+
+### Maxime Thirouin
+
+Freelance front-end (UI/UX) developer. Open Source addict & compulsive coder.
+
+Creator of [Phenomic](https://phenomic.io/), [cssnext](http://cssnext.io/) and [putaindecode](http://putaindecode.io/).
+
+[moox.io](https://moox.io/), [@MoOx](https://twitter.com/MoOx), [github](https://github.com/MoOx/)
 
 ## V
 
