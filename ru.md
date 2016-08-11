@@ -62,9 +62,9 @@ JavaScript-маньяк, один из разработчиков ядра [Prot
 
 ### Зенич Игорь
 
-Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/delka/html5checklist), докладчик.
+Евангелист [БЭМ](http://ru.bem.info/), автор [HTML5 Checklist](https://github.com/ihorzenich/html5checklist), докладчик.
 
-[блог](http://delka.name/blog/), [@delaz](https://twitter.com/ihorzenich), [github](https://github.com/delka)
+[блог](http://delka.name/blog/), [@ihorzenich](https://twitter.com/ihorzenich), [github](https://github.com/ihorzenich)
 
 ### Зюзин Виталий
 
