@@ -241,6 +241,12 @@ CEO и автор сайта [CSS live](http://сss-live.ru), администр
 
 ## <a name='h'></a>Х
 
+### Халилова Зарема
+
+Веб-разработчик в [Uploadcare](https://uploadcare.com/), основатель и со-организатор сообщества [SPB Frontend](https://new.vk.com/spb_frontend), со-организатор конференции [HolyJS](http://holyjs.ru/), докладчик.
+
+[vk](https://new.vk.com/nowbrow), [@zmoki](https://twitter.com/zmoki), [github](https://github.com/zmoki), [linkedin](https://ru.linkedin.com/in/zaremakhalilova)
+
 ### Харитонов Роберт
 
 Автор [SourceJS](http://sourcejs.com/), [MCSS](http://operatino.github.io/MCSS/en/), [DevShelf](http://devshelf.us/), докладчик.
