@@ -1,6 +1,6 @@
 # Frontenders
 
-A B [C](#c) D E F [G](#g) H I J [K](#k) L M N [O](#o) P Q [R](#r) [S](#s) [T](#t) U [V](#v) W X Y Z
+A B [C](#c) D E F [G](#g) H [I](#i) J [K](#k) L M N [O](#o) P Q [R](#r) [S](#s) [T](#t) U [V](#v) W X Y Z
 
 ## C
 
@@ -23,6 +23,14 @@ Staff software engineer at [Twitter](https://twitter.com/), author of [normalize
 Maintainer of [SassDoc](http://sassdoc.com/), writer of [Sass Guidelines](http://sass-guidelin.es/), curator of [Sass-Compatibility](http://sass-compatibility.github.io/), maker of [Browserhacks](http://browserhacks.com/) and author of a lot of Sass material.
 
 [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel), [github](https://github.com/hugogiraudel)
+
+## I
+
+### Paul Irish
+
+Work on the Google Chrome team focused on Developer Tooling, developed tools like [Modernizr](https://modernizr.com/), [Yeoman](http://yeoman.io/), [CSS3 Please](http://css3please.com/) and [HTML5 Boilerplate](https://html5boilerplate.com/), curated [HTML5 Rocks](https://www.html5rocks.com) and co-created projects like [HTML5 Please](http://html5please.com/), [mothereffingtextshadow](http://mothereffingtextshadow.com/) etc.
+
+[paulirish.com](http://paulirish.com/), [@paul_irish](http://twitter.com/paul_irish), [github](https://github.com/paulirish)
 
 ## K
 
