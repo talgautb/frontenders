@@ -16,7 +16,7 @@
 
 Участник сообщества «[Веб-стандарты](http://web-standards.ru/)». Читал лекции и вёл курсы для веб-разработчиков в [Политехническом университете](http://www.avalon.ru/).
 
-[личный сайт](http://designnotfound.ru/), [@\_h4\_](https://twitter.com/_h4_), [github](https://github.com/h4)
+[личный сайт](http://mkhl.brnv.ru/), [@\_h4\_](https://twitter.com/_h4_), [github](https://github.com/h4)
 
 ### Барановский Дмитрий
 
