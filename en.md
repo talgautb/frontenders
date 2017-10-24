@@ -88,6 +88,14 @@ Worked at W3C/MIT, gave over [60 talks](http://lea.verou.me/speaking/), author o
 
 [lea.verou.me](http://lea.verou.me/), [@leaverou](https://twitter.com/leaverou), [github](https://github.com/SaraSoueidan)
 
+## Z
+
+### Jeffrey Zeldman
+
+Designer, writer, and publisher. Founded [A List Apart](https://alistapart.com), cofounded the web design conference [An Event Apart](http://www.aneventapart.com/); cofounded and publishes [A Book Apart](http://www.abookapart.com/).
+
+[zeldman.com](http://www.zeldman.com), [@zeldman](https://twitter.com/zeldman)
+
 
 ---
 
